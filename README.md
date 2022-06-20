@@ -1,8 +1,1 @@
-
-
-
-
-# Coming-Soon-Page
-
-# frontend-web
-
+<h>PeersApp-Community | frontend-web</h1>
